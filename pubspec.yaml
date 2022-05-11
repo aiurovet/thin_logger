@@ -1,7 +1,7 @@
 name: thin_logger
 description: A minimal logger class, suitable mostly for console utilities rather than enterprise-grade applications.
-version: 0.1.1
-homepage: https://github.com/aiurovet/thin_logger/
+version: 0.1.2
+homepage: https://aiurovet.blogspot.com/
 
 environment:
   sdk: '>=2.16.2 <3.0.0'
